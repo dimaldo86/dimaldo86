@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Dmitry 
+<h3 align="center">Junior Frontend Developer</h3>
 
 <!--
 **dimaldo86/dimaldo86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
