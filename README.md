@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Dmitry 
 <h3 align="center">Junior Frontend Developer</h3>
-<p>I have been doing web development for more than 2 years. I took courses on Udemy, I study new technologies on my own every day.</p>
+<p font-size="16px">I have been doing web development for more than 2 years. I took courses on Udemy, I study new technologies on my own every day.</p>
 
 <!--
 **dimaldo86/dimaldo86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
