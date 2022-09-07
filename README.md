@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Dmitry 
 <h3 align="center">Junior Frontend Developer</h3>
-<div align="center>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</div>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 <!--
 **dimaldo86/dimaldo86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
