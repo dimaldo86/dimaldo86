@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Dmitry 
-<h3 align="center">Junior Frontend Developer</h3>
+<h3 align="center">Frontend Developer</h3>
 <p>I have been doing web development for more than 2 years.<p/> <p>I took courses on Udemy, I study new technologies on my own every day.</p>
 
 
